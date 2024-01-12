@@ -6,4 +6,4 @@
 6. Emergencies & Requests
 7. Bartering/Buying
 
-# [Greetings](#){name=greetings}
+## Greetings [](#){name=greetings}
