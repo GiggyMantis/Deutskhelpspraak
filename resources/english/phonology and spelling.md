@@ -2,7 +2,7 @@
 |-------------|--------|---------|---------|-------|-----------|
 | Nasal       |    m   |    n    |         |  ŋ~ng |           |
 | Stop        |   p b  |  t d ʦ  |   (ʧ)   |  k g  |           |
-| Fricative   |    f   |   s~z   |   ʃ~sk  |  h~x  |   sj~ɕ~ɧ  |
+| Fricative   |    f   |   s~z   |   ʃ~sk  |  h~x  |   sj\~ɕ~ɧ  |
 | Approximant |  v~w~ʋ |    l    |    j    |       |     r     |
 
 |   Vowels   | Front Rounded | Front Unrounded | Back |
