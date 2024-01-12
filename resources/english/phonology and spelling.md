@@ -1,7 +1,7 @@
 | Consonants  | Labial | Coronal | Palatal | Velar | (Varying) |
 |-------------|--------|---------|---------|-------|-----------|
 | Nasal       |    m   |    n    |         |  ŋ~ng |           |
-| Stop        |   p b  |  t d ʦ  |ʧ~tʃ~tsk |  k g  |           |
+| Stop        |   p b  |  t d ʦ  |ʧ\~tʃ~tsk|  k g  |           |
 | Fricative   |    f   |   s~z   |   ʃ~sk  |  h~x  |  sj\~ɕ~ɧ  |
 | Approximant | v\~w~ʋ |    l    |    j    |       |     r     |
 
