@@ -1,4 +1,4 @@
-1. [Greetings](greetings)
+1. [Greetings](#greetings)
 2. Farewells
 3. Pleasantries
 4. Identity
