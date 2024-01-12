@@ -6,4 +6,5 @@
 6. Emergencies & Requests
 7. Bartering/Buying
 
-## [Third Example](#){name=third-example}
+<a id="greetings"></a>
+## Greetings
