@@ -49,7 +49,7 @@ s as in **s**ize    | **s**and
 
 h as in **h**og     | **h**und
 
-sj as s + j         | **sj**el
+sj as **s**ue + **y**ear  | **sj**el
 
 v as in **v**ortex  | **w**est
 
