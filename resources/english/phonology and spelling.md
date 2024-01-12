@@ -16,6 +16,8 @@ If you don't know what these symbols mean, go to the next section.
 | Mid-Short  |       ɛ       |        œ        |   ɔ  |
 | Low        |       æ       |                 |  ɑː  |
 
+Diphthongs: ɔʏ, aʊ, aɪ
+
 # English Pronunciation Guide
 m as in **m**ap			| **m**aal
 
@@ -57,7 +59,35 @@ j as in **y**oung   | **j**ung
 
 r as in **r**eal    | **r**ing
 
+iː as in b**ee**    | **i**s
+
+yː as in b**ee** with rounded lips  | sk**ü**
+
+uː as in g**oo**se  | **u**t
+
+ɪ as in b**i**d     | tr**i**st
+
+ʏ as in b**i**d with rounded lips  | k**ü**ssen
+
+ʊ as in l**oo**k    | h**u**nd
+
+eː as in l**ay**    | sist**e**m
+
+øː as in l**ay** with rounded lips | g**ö**ren
+
+oː as in t**ow**    | g**oo**d
+
+ɛ as in b**e**d     | **e**nde
+
+œ as in c**ur**l    | bj**ö**rn
+
+ɔ as in **o**n[^2]  | b**o**k
+
+æ as in l**a**d     | **a**kt
+
+ɑː as in j**o**b, but long  | **a**fend
 
 [^1]: Never as in **g**iant
+[^2]: In-between **o**n and t**ow** (American)
 
 
