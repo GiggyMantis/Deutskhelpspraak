@@ -1,5 +1,5 @@
 Word,PartOfSpeech,Pronunciation,EnDefinition,DHSDefinition,EnGloss,Notes,Synonym,Antonym,CoordinateTerms,DeGloss,NlGloss,SvGloss,AfGloss,DaGloss,NnGloss,NdsGloss,YiGloss
-afend,n,ɑːfɛnt,The period of time at the end of the day.,,evening,,,,middag;nakt;morgen,Abend,avond,kväll;afton,aand,aften,kveld,Avend,אָוונט
+afend,n,ɑːfɛnt,The period of time at the end of the day.,,evening,,,,middag;nakt;morgen,Abend,avond,kväll;afton,aand,aften,kveld,avend,אָוונט
 afendmaal,n,ɑːfɛndmɑːl,A meal at the end of the say.,,supper;dinner,,,,middagmaal;morgenmaal,Abendessen,avondmaal,kvällsmat,aandete,aftensmad,kveldsmat,avendeeten,וועטשערע
 after,prep,æftɛr,In the time following,,after;beyond;post,,,,,nach,achter,efter,na,efter,etter,hinter,נאָך
 akt,num,ækt,8,8,eight,,,,,acht,acht,åtta,agt,otte,åtte,acht,אַכט
@@ -7,3 +7,6 @@ aktief,adj,æktiːf,1. Full of energy. 2. On. 3. A voice in linguistics that des
 aktien,num,æktiːn,18,18,eighteen,,,,,achtzehn,achttien,arton,agtien,atten,atten,,
 aktig,num,æktɪk,80,80,eighty,,,,,achtzig,tachtig,åttio,tagtig,firs,åtti,,
 akzepteren,v,akʦɛptɛrɛn,,,accept,,,,,akzeptieren,accepteren,acceptera,aanvaar,acceptere,aksepterer,,
+all,det,æl,In totality; every.,,all;any,,,,,alle;all,alle;al,allt;all,almal;alle,alle;al,alle;alt,,
+allsaa,conj;adv,ælsɑː,,,also,,,,,auch,ook,också,ook,også,også,,
+saa,conj;adv,sɑː,,,so,,,,,also;so,dus;zo,så,so,så,så,,
