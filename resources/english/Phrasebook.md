@@ -11,7 +11,15 @@
 ## Greetings
 
 - Hallo!
-  - Hello
+  - Hello!
+- Good dag!
+  - Hello!
+- Good morgen!
+  - Good morning!
+- Good afend!
+  - Good afternoon/evening!
+- Good nakt!
+  - Good evening/night!
 
 <a id="farwells"></a>
 ## Farewells
